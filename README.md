@@ -1,2 +1,2 @@
 # exam
-pratice
+this all project practice for me :)
